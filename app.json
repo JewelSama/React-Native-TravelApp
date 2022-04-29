@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "TravelApp",
+    "name": "Jewelinator-3000",
     "slug": "TravelApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/james.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/sama3.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.jewelsama.TravelApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
